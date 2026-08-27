@@ -10,6 +10,8 @@ Most of my experience is in frontend development, especially with Angular, TypeS
 * Node.js
 * Python
 * Nest.js
+* Next
+* React
 * Spring Boot
 * HTML, CSS
 * SQL / MySQL / PostgreSQL
